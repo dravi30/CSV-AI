@@ -1,0 +1,6 @@
+conda create --name csv_ai python=3.10 -y
+
+conda activate csv_ai
+
+
+streamlit run main.py
